@@ -1,0 +1,339 @@
+<!-- settings/profile -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_pr"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_pr"
+ />
+
+
+<!-- drawable/settings_pr.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/sound -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_so"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_so"
+ />
+
+
+<!-- drawable/settings_so.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/wifi -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_wi"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_wi"
+ />
+
+
+<!-- drawable/settings_wi.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/display -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_di"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_di"
+ />
+
+
+<!-- drawable/settings_di.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/bluetooth -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_bl"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_bl"
+ />
+
+
+<!-- drawable/settings_bl.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/airplane-On -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_ai"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_ai"
+ />
+
+
+<!-- drawable/settings_ai.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/SIM -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_si"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_si"
+ />
+
+
+<!-- drawable/settings_si.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings/SIM+airplane ON -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings_si"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings_si"
+ />
+
+
+<!-- drawable/settings_si.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- settings -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/settings"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/settings"
+ />
+
+
+<!-- drawable/settings.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="375dp"
+android:height="812dp"
+android:viewportWidth="375"
+android:viewportHeight="812"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H375V812H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V812H375V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
